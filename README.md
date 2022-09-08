@@ -1,5 +1,6 @@
 # IOT_FALL22_VU
 ## You are just 3 -step away from setting up the mini router!!
+### Let's get started..
 
 ![alt text](https://static.gl-inet.com/docs/en/3/setup/mini_router/first_time_setup/router.jpg)
 
